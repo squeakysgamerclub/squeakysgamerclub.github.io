@@ -1,7 +1,7 @@
 ## Squeaky's Gamer Club!
 Welcome to the website for Squeaky's Gamer Club! 
-Welcome to the website for everything to do with
-## Squeaky's Gamer Club!!!
+Welcome to the website for everything to do with Squeaky's Gamer Club!
+
 ## <a href="https://discord.gg/Sxf3cMg">Join The Discord Server!</a>
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
