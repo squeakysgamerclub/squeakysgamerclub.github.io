@@ -4,7 +4,7 @@ Welcome to the website for everything to do with Squeaky's Gamer Club.
 
 ## <a href="https://discord.gg/Sxf3cMg">Join The Discord Server!</a>
 ## <a href="url">Check out the YouTube channel!</a>
-## 
+## <a href="https://aboutsqueakysgamerclub.github.io">More about us!</a>
 Syntax highlighted code block
 
 # Header 1
